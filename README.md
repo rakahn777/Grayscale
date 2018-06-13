@@ -1,2 +1,2 @@
 # Grayscale
-A practical of grayscale shading
+A practical of screen effect with unity shader
